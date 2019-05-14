@@ -1,0 +1,15 @@
+{
+  "name": "acme-photography",
+  "version": "1.0.0",
+  "description": "Photography portfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://thisis-Shitanshu.github.io/responsive-photography-portfolio",
+  "author": "Shitanshu",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
